@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on a project based on deep learning Image classification
-- 🌱 I’m currently learning Backend web development( Node.js, Express.js, Firebase )
+- 🌱 I’m currently learning Backend web development(Baas, web security)
 - 👯 I’m looking to collaborate on Web development projects
 - 💬 Ask me about ... Web technologies, Machine learning, deep learing(Neural nets)
 - ⚡ Fun fact: ... Not that much good at DSA programming 
