@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm **Vinit** a computer science commander invading the evil tech have a look on my repos
 
-![img]("https://in.pinterest.com/pin/851250767087792465/")
+![img]("![Uploading image.png…]()")
 
 <!--**VinitGurjar/VinitGurjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  🤔 I’m looking for help with ...\
