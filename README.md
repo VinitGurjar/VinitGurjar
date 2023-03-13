@@ -12,6 +12,12 @@
 - 👯 I’m looking to collaborate on Web development projects
 - 💬 Ask me about ... Web technologies, Machine learning, deep learing(Neural nets)
 - ⚡ Fun fact: ... Not that much good at DSA programming 
+- 📫 How to reach me:
+
+    [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/bhaktkage)
+    [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vinit-gurjar-48280921a/)
+
+---
 
 
 <img 
