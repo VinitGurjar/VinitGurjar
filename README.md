@@ -13,3 +13,9 @@
 - 💬 Ask me about ... Web technologies, Machine learning, deep learing(Neural nets)
 - ⚡ Fun fact: ... Not that much good at DSA programming 
 
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=VinitGurjar&show_icons=true&theme=midnight-purple" 
+/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinitGurjar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinitGurjar&repo=Web-socket-chatApp)](https://github.com/anuraghazra/github-readme-stats)
