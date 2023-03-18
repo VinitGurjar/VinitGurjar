@@ -24,7 +24,7 @@
    src="https://github-readme-stats.vercel.app/api?username=VinitGurjar&show_icons=true&theme=midnight-purple" 
 />[![GitHub Streak](https://streak-stats.demolab.com/?user=VinitGurjar&theme=dark)](https://git.io/streak-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinitGurjar&repo=Web-socket-chatApp)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinitGurjar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinitGurjar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ---
 <!--START_SECTION:activity-->
