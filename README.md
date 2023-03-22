@@ -6,24 +6,26 @@
  - 📫 How to reach me: ...
 - 📫 How to reach me: ...-->
 
-
 - 🔭 I’m currently working on a project based on deep learning Image classification
 - 🌱 I’m currently learning Backend web development(Baas, web security)
 - 👯 I’m looking to collaborate on Web development projects
 - 💬 Ask me about ... Web technologies, Machine learning, deep learing(Neural nets)
 - ⚡ Fun fact: ... Not that much good at DSA programming 
-- 📫 How to reach me:
 
-    [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/bhaktkage)
-    [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vinit-gurjar-48280921a/)
+---
+## Lets Connect🔗
+   [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/bhaktkage)
+   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vinit-gurjar-48280921a/)
 
 ---
 
-
+## My GitHub Stats🧬
 <img 
    src="https://github-readme-stats.vercel.app/api?username=VinitGurjar&show_icons=true&theme=midnight-purple" 
-/>[![GitHub Streak](https://streak-stats.demolab.com/?user=VinitGurjar&theme=dark)](https://git.io/streak-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinitGurjar&repo=Web-socket-chatApp)](https://github.com/anuraghazra/github-readme-stats)
+/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VinitGurjar&theme=dark)](https://git.io/streak-stats)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinitGurjar&repo=Web-socket-chatApp)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinitGurjar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ---
