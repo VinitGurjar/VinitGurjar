@@ -28,8 +28,7 @@
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinitGurjar&repo=Web-socket-chatApp)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinitGurjar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
----
-### :zap: Recent Activity
+
 
  <!--START_SECTION:activity-->
  <!--END_SECTION:activity-->
