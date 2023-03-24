@@ -13,11 +13,6 @@
 - ⚡ Fun fact: ... Not that much good at DSA programming 
 
 ---
-## Lets Connect🔗
-   [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/bhaktkage)
-   [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vinit-gurjar-48280921a/)
-
----
 
 ## My GitHub Stats🧬
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinitGurjar&count_private=true&theme=radical)
