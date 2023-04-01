@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm **Vinit**, a computer science student in open-source continuously upskilling and learning !!!
 ---
-<img align="" width="90%" src="https://i.pinimg.com/originals/7b/df/0c/7bdf0c51590e0787b1669a87bd7fbe02.jpg">
+<img align="" width="70%" src="https://i.pinimg.com/originals/7b/df/0c/7bdf0c51590e0787b1669a87bd7fbe02.jpg">
 
 ---
 
