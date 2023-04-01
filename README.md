@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm **Vinit**, a computer science student in open-source continuously upskilling and learning !!!
+---
+<img align="right" width="30%" src="https://i.pinimg.com/originals/e4/de/e2/e4dee2b0fe67079d5ec77eccfdf99b45.png">
 
-![For you](https://i.pinimg.com/originals/8b/cc/73/8bcc73d09059f4ee92b11b454badd46f.png)
-<!--**VinitGurjar/VinitGurjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 🤔 I’m looking for help with ...\
- - 📫 How to reach me: ...
-- 📫 How to reach me: ...-->
+
+
+
 
 - 🔭 I’m currently working on a project based on deep learning Image classification
 - 🌱 I’m currently learning Backend web development(Baas, web security)
@@ -16,17 +16,5 @@
 
 ## My GitHub Stats🧬
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinitGurjar&count_private=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VinitGurjar&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinitGurjar)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinitGurjar&repo=Web-socket-chatApp)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinitGurjar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
-
- <!--START_SECTION:activity-->
- <!--END_SECTION:activity-->
- 
-
-
+<img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=VinitGurjar&theme=tokyonight" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinitGurjar&show_icons=true&locale=en&layout=compact" alt="sparshgarg1" /></p>
