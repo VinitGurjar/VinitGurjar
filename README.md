@@ -7,10 +7,10 @@
 <img align="right" width="30%" src="https://i.pinimg.com/originals/5e/b6/b0/5eb6b09e67541d948a615a84b8da5d0c.png">
 
 
-- 🔭 I’m currently working on a project based on deep learning Image classification
-- 🌱 I’m currently learning Backend web development(Baas, web security)
+- 🔭 I’m currently working on a project based on Deep learning
+- 🌱 I’m currently learning Backend Web Dev, For future I've planed to learn Golang, Kubernetes and other Devops Technologies.
 - 👯 I’m looking to collaborate on Web development projects
-- 💬 Ask me about ... Web technologies, Machine learning, deep learing(Neural nets)
+- 💬 Ask me about ... Web technologies, Deep learing
 - ⚡ Fun fact: ... Not that much good at DSA programming 
 
 ---
