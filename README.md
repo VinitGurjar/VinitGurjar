@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm **Vinit**, a computer science student in open-source continuously upskilling and learning !!!
 ---
-<img align="" width="70%" src="https://i.pinimg.com/originals/7b/df/0c/7bdf0c51590e0787b1669a87bd7fbe02.jpg">
+<div align='center'><img width="70%" src="https://i.pinimg.com/originals/7b/df/0c/7bdf0c51590e0787b1669a87bd7fbe02.jpg">
+</div>
 
 ---
 
@@ -16,5 +17,15 @@
 ---
 
 ## My GitHub Stats🧬
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinitGurjar&count_private=true&theme=radical)<img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=VinitGurjar&theme=tokyonight" />
-<p><img   margin-left="50%" margin-right="50%"  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinitGurjar&show_icons=true&locale=en&layout=compact" alt="vin" /></p>
+<div align='center'>
+  
+<img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=VinitGurjar&theme=tokyonight" />
+  
+</div>
+<div align='center'>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinitGurjar&show_icons=true&theme=synthwave)
+<p><img   margin-left="50%" margin-right="50%"  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinitGurjar&show_icons=true&locale=en&layout=compact&theme=dark" alt="vin" /></p></div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinitGurjar&repo=Learning-Typescript&theme=dark)](https://github.com/VinitGurjar/Learning-Typescript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEDxMITUjjain&repo=TEDxMIT-UJJAIN-website&theme=dark)](https://github.com/TEDxMITUjjain/TEDxMIT-UJJAIN-website)
