@@ -19,13 +19,15 @@
 ## My GitHub Stats🧬
 <div align='center'>
   
-<img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=VinitGurjar&theme=tokyonight" />
+<img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=VinitGurjar&theme=tokyonight" />
   
 </div>
 <div align='center'>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinitGurjar&show_icons=true&theme=synthwave)
 <p><img   margin-left="50%" margin-right="50%"  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinitGurjar&show_icons=true&locale=en&layout=compact&theme=dark" alt="vin" /></p></div>
+
+## Recent Projects I contributed to🛠️🛖
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinitGurjar&repo=Learning-Typescript&theme=dark)](https://github.com/VinitGurjar/Learning-Typescript)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEDxMITUjjain&repo=TEDxMIT-UJJAIN-website&theme=dark)](https://github.com/TEDxMITUjjain/TEDxMIT-UJJAIN-website)
