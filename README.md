@@ -29,5 +29,5 @@
 
 ## Recent Projects I contributed to🛠️🛖
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinitGurjar&repo=Learning-Typescript&theme=dark)](https://github.com/VinitGurjar/Learning-Typescript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VinitGurjar&repo=anime-restoran&theme=dark)](https://github.com/VinitGurjar/anime-restoran)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEDxMITUjjain&repo=TEDxMIT-UJJAIN-website&theme=dark)](https://github.com/TEDxMITUjjain/TEDxMIT-UJJAIN-website)
