@@ -8,11 +8,10 @@
 <img align="right" width="30%" src="https://i.pinimg.com/originals/5e/b6/b0/5eb6b09e67541d948a615a84b8da5d0c.png">
 
 
-- 🔭 I’m currently working on a project based on Deep learning
-- 🌱 I’m currently learning Backend Web Dev, For future I've planed to learn Golang, Kubernetes and other Devops Technologies.
-- 👯 I’m looking to collaborate on Web development projects
-- 💬 Ask me about ... Web technologies, Deep learing
-- ⚡ Fun fact: ... Not that much good at DSA programming 
+#### 🔭 I’m currently working on a project based on Deep learning and AI 
+#### 🌱 I’m presently learning Backend Web Dev on my own, In the future I plan to learn Golang, Kubernetes and other DevOps Technologies.
+#### 💬 Ask me about ... Web Development, Deep learning, Gradient descent, Attention mechanism, JavaScript ecosystem
+
 
 ---
 
