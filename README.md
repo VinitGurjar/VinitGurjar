@@ -16,15 +16,16 @@
 ---
 
 ## My GitHub Stats🧬
-<div align='center'>
+
+> Yes I use this [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
+
   
 <img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=VinitGurjar&theme=tokyonight" />
-  
-</div>
-<div align='center'>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinitGurjar&show_icons=true&theme=synthwave)
-<p><img   margin-left="50%" margin-right="50%"  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinitGurjar&show_icons=true&locale=en&layout=compact&theme=dark" alt="vin" /></p></div>
+<!--
+<p><img   margin-left="50%" margin-right="50%"  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinitGurjar&show_icons=true&locale=en&layout=compact&theme=dark" alt="vin" /></p>
+-->
 
 ## Recent Projects I contributed to🛠️🛖
 
