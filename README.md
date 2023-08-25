@@ -8,9 +8,9 @@
 <img align="right" width="30%" src="https://i.pinimg.com/originals/5e/b6/b0/5eb6b09e67541d948a615a84b8da5d0c.png">
 
 
-#### 🔭 I’m currently working on a project based on Deep learning and AI 
-#### 🌱 I’m presently learning Backend Web Dev on my own, In the future I plan to learn Golang, Kubernetes and other DevOps Technologies.
-#### 💬 Ask me about ... Web Development, Deep learning, Gradient descent, Attention mechanism, JavaScript ecosystem
+##### 🔭 I’m currently working on a project based on Deep learning and AI 
+##### 🌱 I’m presently learning Backend Web Dev on my own, In the future I plan to learn Golang, Kubernetes and other DevOps Technologies.
+##### 💬 Ask me about ... Web Development, Deep learning, Gradient descent, Attention mechanism, JavaScript ecosystem
 
 
 ---
@@ -18,11 +18,16 @@
 ## My GitHub Stats🧬
 
 > Yes I use this [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
+<div>
+<img   margin-left="50%" margin-right="50%"  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinitGurjar&show_icons=true&locale=en&layout=compact&theme=dark" alt="vin" />
 
-  
-<img width="" height="" src="https://github-readme-streak-stats.herokuapp.com/?user=VinitGurjar&theme=tokyonight" />
+<img width="50%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=VinitGurjar&theme=tokyonight"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinitGurjar&show_icons=true&theme=synthwave)
+</div>
+
+
+<!--
+![vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinitGurjar&show_icons=true&theme=synthwave)
 <!--
 <p><img   margin-left="50%" margin-right="50%"  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinitGurjar&show_icons=true&locale=en&layout=compact&theme=dark" alt="vin" /></p>
 -->
