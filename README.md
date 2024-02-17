@@ -1,4 +1,4 @@
-### Hi there 👋 I'm **Vinit**, a computer science student in open-source continuously upskilling and learning !!!
+### Hi there 👋 I'm **Vinit**, a computer science student continuously upskilling and learning !!!
 ---
 <div align='center'><img width="70%" src="https://i.pinimg.com/originals/7b/df/0c/7bdf0c51590e0787b1669a87bd7fbe02.jpg">
 </div>
