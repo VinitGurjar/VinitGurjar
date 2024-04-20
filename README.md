@@ -12,9 +12,9 @@
 <img align="right" width="30%" src="https://i.pinimg.com/originals/5e/b6/b0/5eb6b09e67541d948a615a84b8da5d0c.png">
 
 
-##### 🔭 I’m currently working on a project based on SAAS and AI. 
-##### 🌱 I’m presently learning `Backend Engineering`, `NeoVim ecosystem`, `LUA` language
-##### 💬 Ask me about ...Deep learning, DataBases, JavaScript ecosystem, Backend systems, OS, Computer Networks 
+- 🔭 I’m currently working on a project based on SAAS and AI. 
+- 🌱 I’m presently learning `Backend Engineering`, `NeoVim ecosystem`, `LUA` language
+- 💬 Ask me about ...Deep learning, DataBases, JavaScript ecosystem, Backend systems, OS, Computer Networks 
 
 
 ---
