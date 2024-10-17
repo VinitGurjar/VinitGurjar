@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<a href="https://app.daily.dev/vindev00"><img src="https://api.daily.dev/devcards/v2/A4jUKG51pIVI2wKpqd4n1.png?type=wide&r=5pf" width="652" alt="vinit gurjar's Dev Card"/></a>
+<a href="https://app.daily.dev/vindev00"><img src="https://api.daily.dev/devcards/v2/A4jUKG51pIVI2wKpqd4n1.png?type=wide&r=u2l" width="652" alt="vinit gurjar's Dev Card"/></a>
 
 </div>
 
